@@ -44,9 +44,8 @@ Open the notebook in Colab or Jupyter to explore the code.
 
 Open to improvements, better visualization, and GAN enhancements. Pull requests are welcome!
 
----
 
 **Author:** Siddardha Shayini  
 **License:** MIT
-```
+
 
