@@ -13,6 +13,10 @@ This project focuses on analyzing and generating EEG signal patterns using deep 
 - `.npy`: NumPy binary files containing preprocessed EEG signals.
 - `.dat`: Raw EEG signal data or label arrays in binary format.
 
+### Data Files
+The `1.npy` file has been compressed for GitHub upload.  
+📦 Download and unzip `Data/1.zip` to get the `1.npy` file.
+
 ## 🧠 Models Used
 
 - **CNN**: For classifying EEG signals.
