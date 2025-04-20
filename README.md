@@ -1,4 +1,4 @@
-```markdown
+```
 # Visual EEG Pattern Synthesis and Recognition with Deep Learning
 
 This project focuses on analyzing and generating EEG signal patterns using deep learning techniques. It leverages CNNs for classification and conditional GANs (cGANs) for synthesizing realistic EEG data. The work is based on `.npy` and `.dat` EEG datasets and implemented using PyTorch.
@@ -34,7 +34,7 @@ This project focuses on analyzing and generating EEG signal patterns using deep 
 
 ## 🚀 Getting Started
 
-```bash
+```
 git clone https://github.com/SiddardhaShayini/Visual_EEG_Pattern_Synthesis_and_Recognition_with_Deep_Learning.git
 cd Visual_EEG_Pattern_Synthesis_and_Recognition_with_Deep_Learning
 ```
